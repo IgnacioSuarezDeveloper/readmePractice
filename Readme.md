@@ -9,7 +9,7 @@ También incluye un contenido principal donde se muestra una breve reseña del b
 Proyecto de una página web estática creada con **HTML y CSS**.
 
 ## Estructura
-
+```
 BarCopa/
 │
 ├── index.html
@@ -18,7 +18,7 @@ BarCopa/
 ├── fondo.jpg
 ├── icono.jpg
 └── logo.jpg
-
+```
 ## Cómo abrir el proyecto
 
 1. Descargar la carpeta del proyecto.
